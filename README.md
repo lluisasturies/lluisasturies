@@ -7,8 +7,8 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-PHP-46a2f1?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-46a2f1?style=flat-square&logo=php&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-43853d?style=flat-square&logo=Spring&logoColor=white" />
   <img alt="Spring-Boot" src="https://img.shields.io/badge/-Spring_Boot-43853d?style=flat-square&logo=Spring&logoColor=white" />
