@@ -1,4 +1,5 @@
-# Hi there 👋
+# Hola! 👋
+Mi nombre es Lluis y soy Desarrollador de aplicaciones web. Soy de Oviedo, Asturias.
 ## 🔧 Tecnologías
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
