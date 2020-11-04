@@ -1,6 +1,9 @@
 ### Hola! 👋
 Mi nombre es Lluis y soy Desarrollador de aplicaciones web. Resido en Oviedo, Asturias.
 
+## 💡 Proyectos
+- [ServiGest](https://github.com/lluisasturies/ServiGest-Backend) - Proyecto de gestión de clientes y ordenes de trabajo para empresas del sector de servicios.
+
 ## 🔧 Tecnologías
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -21,11 +24,7 @@ Mi nombre es Lluis y soy Desarrollador de aplicaciones web. Resido en Oviedo, As
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-## Proyectos
-- [ServiGest](https://github.com/lluisasturies/ServiGest-Backend) - Proyecto de gestión de clientes y ordenes de trabajo para empresas del sector de servicios.
-
 ### Contacta conmigo
-
 [<img align="left" alt="antonbabenko.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="lluisasturies | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
