@@ -1,7 +1,7 @@
 ### Hola! 👋
 Mi nombre es Lluis y soy Desarrollador de aplicaciones web. Resido en Oviedo, Asturias.
 
-### 🔧 Tecnologías
+## 🔧 Tecnologías
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -20,6 +20,9 @@ Mi nombre es Lluis y soy Desarrollador de aplicaciones web. Resido en Oviedo, As
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+
+## Proyectos
+- [ServiGest](https://github.com/lluisasturies/ServiGest-Backend) - Proyecto de gestión de clientes y ordenes de trabajo para empresas del sector de servicios.
 
 ### Contacta conmigo
 
