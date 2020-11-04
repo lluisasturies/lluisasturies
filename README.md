@@ -27,4 +27,4 @@ Mi nombre es Lluis y soy Desarrollador de aplicaciones web. Resido en Oviedo, As
 [<img align="left" alt="lluisasturies | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://github.com/lluisasturies
-[linkedin]: www.linkedin.com/in/lluis-de-la-rubia
+[linkedin]: http://www.linkedin.com/in/lluis-de-la-rubia
