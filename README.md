@@ -2,7 +2,7 @@
 Mi nombre es Lluis y soy Desarrollador de aplicaciones web. Resido en Oviedo, Asturias.
 
 ## 💡 Proyectos
-- [ServiGest](https://github.com/lluisasturies/ServiGest-Backend) - Proyecto de gestión de clientes y ordenes de trabajo para empresas del sector de servicios.
+- [ServiGest](https://github.com/lluisasturies/ServiGestApp) - Proyecto de gestión de clientes y ordenes de trabajo para empresas del sector de servicios.
 
 ## 🔧 Tecnologías
 <p>
