@@ -5,7 +5,7 @@ Lista de comandos básicos para Git.
 ### Configurar Nombre
 Configurar Nombre que salen en los commits
 ```ssh
-	$ git config --global user.name "Lluis de la Rubia"
+	$ git config --global user.name "Lluis"
 ```
 ### Configurar Email
 Configurar Email
