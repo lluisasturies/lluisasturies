@@ -1,4 +1,4 @@
-### Hola! 👋
+## Hola! 👋
 Hola, mi nombre es Lluis y soy desarrollador con alrededor de 4 años de experiencia en el sector. Aunque no sean muchos, desde bien pequeño tuve como hobby todo lo que rodea la informática, por lo que a los 13 años ya experimentaba con algún lenguaje de programación. Soy un apasionado de la tecnología y me gusta proponerme nuevos retos de aprendizaje cada día.
 
 ## 💡 Proyectos
