@@ -2,7 +2,8 @@
 Hola, mi nombre es Lluis y soy desarrollador con alrededor de 4 años de experiencia en el sector. Aunque no sean muchos, desde bien pequeño tuve como hobby todo lo que rodea la informática, por lo que a los 13 años ya experimentaba con algún lenguaje de programación. Soy un apasionado de la tecnología y me gusta proponerme nuevos retos de aprendizaje cada día.
 
 ## 💡 Proyectos
-- [ServiGest](https://github.com/lluisasturies/ServiGestApp) - Proyecto de gestión de clientes y ordenes de trabajo para empresas del sector de servicios.
+- **[ServiGest](https://github.com/lluisasturies/ServiGestApp)** - Proyecto de gestión de clientes y ordenes de trabajo para empresas del sector de servicios.
+- **[NacexWebService](https://github.com/lluisasturies/NacexWebService)**  - Integración en Java para el WebService de Nacex.
 
 ## 🔧 Tecnologías
 <p>
