@@ -3,7 +3,7 @@ Hola, mi nombre es Lluis y soy desarrollador con alrededor de 4 años de experie
 
 ## 💡 Proyectos
 - **[ServiGest](https://github.com/lluisasturies/ServiGestApp)** - Proyecto de gestión de clientes y ordenes de trabajo para empresas del sector de servicios.
-- **[NacexWebService](https://github.com/lluisasturies/NacexWebService)**  - Integración en Java para el WebService de Nacex.
+- **[NacexWebService](https://github.com/lluisasturies/NacexWebService)**  - Integración del WebService de Nacex en JAVA.
 
 ## 🔧 Tecnologías
 <p>
