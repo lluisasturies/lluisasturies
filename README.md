@@ -1,5 +1,5 @@
 ## Hola! 👋
-Hola, mi nombre es Lluis y soy desarrollador con alrededor de 4 años de experiencia en el sector. Desde bien pequeño tuve como hobby todo lo que rodea la informática y las telecomunicaciones, por lo que a los 13 años ya experimentaba con algún lenguaje de programación. Soy un apasionado de la tecnología y creo que cada día es un nuevo reto para aprender algo nuevo.
+Hola, mi nombre es Lluis y soy desarrollador con alrededor de 4 años de experiencia en el sector. Desde bien pequeño tuve como hobby todo lo que rodea la informática y las telecomunicaciones, por lo que a los 13 años ya experimentaba con algún lenguaje de programación. Soy un apasionado de la tecnología y creo que cada día es un reto para aprender algo nuevo.
 
 ## 💡 Proyectos
 - **[ServiGest](https://github.com/lluisasturies/ServiGestApp)** - Proyecto de gestión de clientes y ordenes de trabajo para empresas del sector de servicios.
