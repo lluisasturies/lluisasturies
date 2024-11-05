@@ -33,5 +33,5 @@ Desde bien pequeño tuve como hobby todo lo que rodea la informática y las tele
 [<img align="left" alt="lluisasturies | GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="lluisasturies | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[website]: https://github.com/lluisasturies
+[website]: https://lluisasturies.dev
 [linkedin]: http://www.linkedin.com/in/lluis-de-la-rubia
