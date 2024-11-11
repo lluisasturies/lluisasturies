@@ -1,5 +1,5 @@
 ## Hola! 👋
-Soy desarrollador con alrededor de 4 años de experiencia en el sector. 
+Soy desarrollador con 4 años de experiencia en el sector. 
 
 Desde bien pequeño tuve como hobby todo lo que rodea la informática y las telecomunicaciones, por lo que a los 13 años ya experimentaba con algún lenguaje de programación. Apasionado de la tecnología, creo que cada día es un reto para aprender algo nuevo.
 
